@@ -134,7 +134,7 @@
   "filename": "spec_sheet.pdf",
   "content_type": "application/pdf",
   "size_bytes": 245100,
-  "temp_path": "C:\\Users\\xxx\\AppData\\Local\\Temp\\mail163_mcp_attachments\\1647970093_1_spec_sheet.pdf"
+  "temp_path": "<system_temp_dir>/mail163_mcp_attachments/1647970093_1_spec_sheet.pdf"
 }
 ```
 
