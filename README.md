@@ -1,4 +1,4 @@
-# 📧 163 Mail Read-Only MCP Server
+# 📧 Mail Read-Only MCP Server
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-brightgreen.svg)](https://www.python.org/)
