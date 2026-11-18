@@ -1,0 +1,9 @@
+{
+  "description": "Accio 智能体工作台自定义 MCP 服务配置示例",
+  "mcpServers": {
+    "mail163": {
+      "command": "python",
+      "args": ["-m", "mail163_mcp", "serve"]
+    }
+  }
+}

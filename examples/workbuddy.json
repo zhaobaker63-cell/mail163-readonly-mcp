@@ -1,0 +1,7 @@
+{
+  "description": "WorkBuddy 智能体桌面端 MCP 配置",
+  "name": "mail163",
+  "type": "stdio",
+  "command": "python",
+  "args": ["-m", "mail163_mcp", "serve"]
+}

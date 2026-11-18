@@ -1,0 +1,11 @@
+{
+  "description": "DeepSeek Harness Agent 评测与运行框架 MCP 配置",
+  "mcp_servers": [
+    {
+      "name": "mail163",
+      "transport": "stdio",
+      "command": "python",
+      "args": ["-m", "mail163_mcp", "serve"]
+    }
+  ]
+}

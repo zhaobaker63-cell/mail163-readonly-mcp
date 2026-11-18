@@ -1,0 +1,6 @@
+# Codex 本地 MCP 配置示例
+# 复制以下内容追加到你的 ~/.codex/config.toml 中
+
+[mcp_servers.mail163]
+command = "python"
+args = ["-m", "mail163_mcp", "serve"]
