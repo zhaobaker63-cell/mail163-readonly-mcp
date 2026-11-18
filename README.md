@@ -5,7 +5,7 @@
 [![MCP Spec](https://img.shields.io/badge/MCP-2024--11--05-orange.svg)](https://modelcontextprotocol.io/)
 [![Zero External Dependencies](https://img.shields.io/badge/dependencies-0-success.svg)](pyproject.toml)
 
-> **专为 AI 智能体设计的网易 163 企业邮箱只读 MCP 服务器。**  
+> **专为 AI 智能体设计的企业邮箱只读 MCP 服务器。**  
 > 纯标准库实现，零第三方依赖；严格只读（EXAMINE + BODY.PEEK）；密码永不落盘（OS 级系统凭据保护）；精简元数据返回，强力控制 LLM 上下文消耗。  
 > 完美兼容 **Codex、Accio、DeepSeek Harness、WorkBuddy、Cursor、Claude Desktop** 等一切主流 MCP 客户端。
 
